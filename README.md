@@ -1,3 +1,3 @@
 # GitRamasTrabajoEquipo
-Trabajo individual
+Trabajo individual rama
 
